@@ -1,16 +1,16 @@
 .jumbotron {
   /*  Background fallback in case of IE8 & down, or in case the image doesn't load, such as with slower connections  */
-  background: url("https://3.bp.blogspot.com/-wgMmxCYZ-U4/XFcjnAL-D4I/AAAAAAAADrQ/O2MdJhb_nEYqAKqZoQP5HMcosvzevoUtgCHMYCw/s1600/nba-wallpapers-wallpaper-cave.jpg")
+  background: url("https://images.squarespace-cdn.com/content/v1/5c0170f8b27e3985d783635e/1550540643622-PDDX7WL2POFA892YUEJE/ke17ZwdGBToddI8pDm48kPqQfq0L3n3wpHIsRapTfg8UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcqDw7KJ9JLVnFyPtQWXPW_fGUEh2BflkccjBxWRTaY_RcTR0hSuOiDKazX4Abyxu7/JWPortfolio_NBA_Textures_1.gif?format=1500w")
     center center no-repeat fixed #464646;
 
   font-family: Serif, Monospace;
   height: 400px;
   width: auto;
-  opacity: 0.5;
+  opacity: 100;
 }
 
 h1,
 h4 {
-  color: orangered;
+  color: black;
   font-weight: bolder;
 }
