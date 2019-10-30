@@ -6,7 +6,7 @@ const Banner = () => (
     <div className="container">
       <div className="row">
         <div className="col-md-8 offset-md-2 offset-md-right-2">
-          <h1>UCDavis Coding Bootcamp Clicky Game!</h1>
+          <h1>NBA Star click game!</h1>
           <h4>
             Click on an image to earn points, but don't click on any more than
             once!
